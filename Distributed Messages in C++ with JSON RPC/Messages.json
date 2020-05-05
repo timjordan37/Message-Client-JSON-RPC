@@ -1,0 +1,43 @@
+{"name":"MessageLibrary",
+ "Tim.Jordan":
+ [
+     {
+         "MessageTo":"Tim.Jordan",
+         "MessageFrom":"Tim.Lindquist",
+         "MessageSubject":"Test 1",
+         "MessageDate":"Wed Sep 25 7:11:26 2019",
+         "MessageContent":"This is a test for message 1"
+     },
+     {
+         "MessageTo":"Tim.Jordan",
+         "MessageFrom":"Tim.Lindquist",
+         "MessageSubject":"Test 2",
+         "MessageDate":"Wed Sep 25 7:11:28 2019",
+         "MessageContent":"This is a test for message 2"
+     },
+     {
+         "MessageTo":"Tim.Jordan",
+         "MessageFrom":"Tim.Lindquist",
+         "MessageSubject":"Test 3",
+         "MessageDate":"Wed Sep 25 7:11:30 2019",
+         "MessageContent":"This is a test for message 3"
+     },
+     {
+         "MessageTo":"Tim.Jordan",
+         "MessageFrom":"Tim.Lindquist",
+         "MessageSubject":"Test 4",
+         "MessageDate":"Wed Sep 25 7:11:32 2019",
+         "MessageContent":"This is a test for message 4"
+     }
+ ],
+ "Tim.Lindquist":
+ [
+     {
+         "MessageTo":"Tim.Lindquist",
+         "MessageFrom":"Tim.Jordan",
+         "MessageSubject":"Test 1",
+         "MessageDate":"Wed Sep 25 7:11:24 2019",
+         "MessageContent":"This is a test for message 1"
+     }
+ ]
+}

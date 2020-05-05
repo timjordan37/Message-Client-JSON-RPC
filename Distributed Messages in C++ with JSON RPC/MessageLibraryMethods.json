@@ -1,0 +1,27 @@
+[
+    {
+        "method": "getMessageFromHeaders",
+        "params": ["String"],
+        "returns": [ ]
+    },
+    {
+        "method": "getMessage",
+        "params": ["String", "String"],
+        "returns": { }
+    },
+    {
+        "method": "deleteMessage",
+        "params": ["String", "String"],
+        "returns": true
+    },
+    {
+        "method": "sendClearText",
+        "params": ["String", "String"],
+        "returns": true
+    },
+    {
+        "method": "getMail",
+        "params": ["String"],
+        "returns": [ ]
+    }
+]
